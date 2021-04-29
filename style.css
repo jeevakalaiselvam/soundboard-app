@@ -56,3 +56,41 @@ body {
 input:focus {
     outline: none;
 }
+
+.boards {
+    display: flex;
+    padding: 2rem;
+    flex-wrap: wrap;
+    margin: 2rem 1rem;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.board-container {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+}
+
+.board {
+    color: white;
+    border: 1px solid white;
+    padding: 2rem;
+    font-size: 1.5rem;
+    display: inline-block;
+    border-radius: 100px;
+}
+
+.board:hover {
+    transform: scale(0.98);
+    cursor: pointer;
+}
+
+.icon-small {
+    transition: color 0.5s ease;
+}
+
+.music {
+    color: white;
+}
