@@ -6,4 +6,4 @@ Check the live version here <https://jeevakalaiselvam.github.io/soundboard-app/>
 
 # Screenshots
 
-![Scrrenshot](screens/screen1.png){:height="50%" width="50%"}
+![Scrrenshot](screens/screen1.png)
